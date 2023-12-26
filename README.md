@@ -43,8 +43,6 @@ The code of paper'[Graph Neural Architecture Search with Large Language Models](
 ```
 
 
-## Get Start
-
 ## Citation
 If you find GNAS-LLM useful in your research or applications, please kindly cite:
 ```tex
@@ -57,4 +55,3 @@ If you find GNAS-LLM useful in your research or applications, please kindly cite
       primaryClass={cs.LG}
 } 
 ```
-## Acknowledgements

@@ -1,0 +1,12 @@
+torch==1.13.1+cu116
+torchaudio==0.13.1+cu116
+torchvision==0.14.1+cu116
+datatime
+tokenizers==0.14.1
+torch-cluster==1.6.3
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torch-spline-conv==1.2.2+pt113cu116
+torch-geometric==2.4.0
+requests==2.29.0 
+

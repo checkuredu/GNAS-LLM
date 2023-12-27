@@ -1,6 +1,8 @@
 # GNAS-LLM
 The code of paper'[Graph Neural Architecture Search with Large Language Models](https://arxiv.org/abs/2310.01436)'
-![image](https://github.com/checkuredu/GNAS-LLM/blob/main/Model.pdf)
+
+![image](https://github.com/checkuredu/GNAS-LLM/blob/main/GNAS-LLM.png)
+
 
 ## Set Up
 
